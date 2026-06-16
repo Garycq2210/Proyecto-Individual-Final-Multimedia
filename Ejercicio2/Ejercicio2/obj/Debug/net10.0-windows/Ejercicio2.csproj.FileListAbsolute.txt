@@ -1,0 +1,16 @@
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\bin\Debug\net10.0-windows\Ejercicio2.exe
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\bin\Debug\net10.0-windows\Ejercicio2.deps.json
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\bin\Debug\net10.0-windows\Ejercicio2.runtimeconfig.json
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\bin\Debug\net10.0-windows\Ejercicio2.dll
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\bin\Debug\net10.0-windows\Ejercicio2.pdb
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.Form1.resources
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.AssemblyInfo.cs
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.dll
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\refint\Ejercicio2.dll
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.pdb
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\Ejercicio2.genruntimeconfig.cache
+C:\Users\thinkpad\source\repos\Ejercicio2\Ejercicio2\obj\Debug\net10.0-windows\ref\Ejercicio2.dll

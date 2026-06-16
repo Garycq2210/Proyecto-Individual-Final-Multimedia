@@ -1,0 +1,16 @@
+C:\Users\thinkpad\source\repos\Examen\Examen\bin\Debug\net10.0-windows\Examen.exe
+C:\Users\thinkpad\source\repos\Examen\Examen\bin\Debug\net10.0-windows\Examen.deps.json
+C:\Users\thinkpad\source\repos\Examen\Examen\bin\Debug\net10.0-windows\Examen.runtimeconfig.json
+C:\Users\thinkpad\source\repos\Examen\Examen\bin\Debug\net10.0-windows\Examen.dll
+C:\Users\thinkpad\source\repos\Examen\Examen\bin\Debug\net10.0-windows\Examen.pdb
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.Form1.resources
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.csproj.GenerateResource.cache
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.AssemblyInfo.cs
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.dll
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\refint\Examen.dll
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.pdb
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\Examen.genruntimeconfig.cache
+C:\Users\thinkpad\source\repos\Examen\Examen\obj\Debug\net10.0-windows\ref\Examen.dll

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\thinkpad\\source\\repos\\ejercicio2\\ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\thinkpad\\source\\repos\\ejercicio2\\ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAF0E8E-EB0D-4D19-AB22-9930F5801DA5}|Ejercicio2\\Ejercicio2.csproj|C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CAF0E8E-EB0D-4D19-AB22-9930F5801DA5}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T23:16:32.465Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs",
+              "RelativeToolTip": "Ejercicio2\\Form1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:27:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\source\\repos\\Ejercicio2\\Ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:22:25.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
